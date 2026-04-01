@@ -101,6 +101,7 @@ etc/  ← 기타 (8개)
 | 02 | [Ex02](Ex/Ex02.ipynb) | 실습 2 |
 | 03 | [Ex03](Ex/Ex03.ipynb) | 실습 3 |
 | 04 | [Ex_gpt](Ex/Ex_gpt.ipynb) | GPT 활용 |
+| 05 | [빅데이터 53기 LLM만들기](https://github.com/eogks1235-byte/-53-LLM.git) | GPT API 활용 |
 
 ## `etc/` 기타
 
